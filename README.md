@@ -13,11 +13,11 @@ A simple DOM parser implemented in Node.js using the `htmlparser2` library. This
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/custom-dom.git
+   git clone https://github.com/Mdshahid123/Custom-Dom-Parser.git
    ```
 2. Navigate to the project directory:
    ```
-   cd custom-dom
+   cd Custom-Dom-Parser
 3. Install the dependencies:
    ```
     npm install
